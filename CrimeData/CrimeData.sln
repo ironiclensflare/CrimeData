@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrimeDataWebApp", "CrimeDataWebApp\CrimeDataWebApp.csproj", "{D60F5394-38E1-4193-A813-DC64495286D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrimeDataWebApp.Tests", "CrimeDataWebApp.Tests\CrimeDataWebApp.Tests.csproj", "{B2E8F29C-F01F-4D2C-AB0C-ED166F033ECB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrimeData", "CrimeData\CrimeData.csproj", "{67E2CF6A-7435-4688-BFA1-C8B962EBDDF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D60F5394-38E1-4193-A813-DC64495286D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D60F5394-38E1-4193-A813-DC64495286D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D60F5394-38E1-4193-A813-DC64495286D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D60F5394-38E1-4193-A813-DC64495286D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2E8F29C-F01F-4D2C-AB0C-ED166F033ECB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2E8F29C-F01F-4D2C-AB0C-ED166F033ECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2E8F29C-F01F-4D2C-AB0C-ED166F033ECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2E8F29C-F01F-4D2C-AB0C-ED166F033ECB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67E2CF6A-7435-4688-BFA1-C8B962EBDDF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67E2CF6A-7435-4688-BFA1-C8B962EBDDF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67E2CF6A-7435-4688-BFA1-C8B962EBDDF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67E2CF6A-7435-4688-BFA1-C8B962EBDDF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
